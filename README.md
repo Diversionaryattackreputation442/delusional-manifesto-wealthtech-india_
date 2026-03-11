@@ -73,6 +73,7 @@ You build an **autonomous financial nervous system** for 1.4 billion people.
 | [System Architecture](architecture/system-architecture.md) | How the autonomous financial nervous system actually works |
 | [Intelligence Layers](architecture/intelligence-layers.md) | The seven layers of financial AI |
 | [Data Topology](architecture/data-topology.md) | The Five Tiers of Financial Awareness — every platform, every API, every workaround |
+| [What's Possible Today](architecture/feasibility-today.md) | The honest feasibility map — what's buildable now, what AI bridges, and what's genuinely waiting on infrastructure |
 
 ### Product Specs (The Delusional Edition)
 | Spec | Description |
