@@ -66,14 +66,13 @@ You build an **autonomous financial nervous system** for 1.4 billion people.
 | [07. The Death of Financial Products](chapters/07-death-of-financial-products.md) | Outcomes > Products: The collapse of mutual funds, insurance, and credit into a single intelligence |
 | [08. Collective Intelligence](chapters/08-collective-intelligence.md) | What happens when 100M financial agents negotiate with each other |
 | [09. The Regulatory Imagination](chapters/09-regulatory-imagination.md) | Building with regulators, not around them |
-| [10. The 10-Year Arc](chapters/10-ten-year-arc.md) | A timeline for the delusional |
 
 ### Architecture
 | Document | Description |
 |----------|-------------|
 | [System Architecture](architecture/system-architecture.md) | How the autonomous financial nervous system actually works |
 | [Intelligence Layers](architecture/intelligence-layers.md) | The seven layers of financial AI |
-| [Data Topology](architecture/data-topology.md) | From Account Aggregator to ambient financial awareness |
+| [Data Topology](architecture/data-topology.md) | The Five Tiers of Financial Awareness — every platform, every API, every workaround |
 
 ### Product Specs (The Delusional Edition)
 | Spec | Description |
@@ -90,6 +89,13 @@ You build an **autonomous financial nervous system** for 1.4 billion people.
 | [Account Aggregator as Superpower](india-stack/account-aggregator.md) | Why AA is the most underrated financial innovation on earth |
 | [The ONDC Play](india-stack/ondc-play.md) | Open commerce meets autonomous finance |
 | [OCEN and Programmable Credit](india-stack/ocen-credit.md) | When credit becomes an API call, not an application |
+
+### Interactive Prototype
+| Resource | Description |
+|----------|-------------|
+| [The Living Organism](prototype/organism-prototype.jsx) | A working React prototype that visualizes money as a breathing, living system — not a dashboard |
+| [How to Run](prototype/README.md) | Instructions for running the prototype in Claude.ai, Vite, or Vercel |
+| [Landing Page Demo](demo/index.html) | A deployable showcase of all 5 product screens |
 
 ---
 
@@ -126,7 +132,7 @@ Not incrementally. From scratch.
 
 I use the word deliberately. In Indian wealthtech, "pragmatic" has become a euphemism for "unambitious." Every pitch deck says "AI-powered" but means "we added a chatbot." Every product roadmap says "personalization" but means "we sort by risk profile."
 
-Delusional means: what if we took the technology seriously? What if we actually believed that LLMs can reason about financial life? What if we built for the India of 2035, not the India of 2024 with a slightly better UX?
+Delusional means: what if we took the technology seriously? What if we actually believed that LLMs can reason about financial life? What if we built for the India of 2036, not the India of 2026 with a slightly better UX?
 
 The best products in history were built by people who were called delusional until they were called inevitable.
 
@@ -134,7 +140,7 @@ The best products in history were built by people who were called delusional unt
 
 ## How to Read This
 
-Start with Chapters 1–3 for the thesis. Read Chapters 4–7 for the product vision. Read 8–10 for the ecosystem and timeline. Then dive into Architecture and Product Specs for the "how."
+Start with Chapters 1–3 for the thesis. Read Chapters 4–7 for the product vision. Read 8–9 for the ecosystem. Then dive into Architecture and Product Specs for the "how." Run the prototype to see what it *feels* like.
 
 Or just read the parts that make you angry. That's where the good stuff is.
 
@@ -150,7 +156,7 @@ The only rule: **no incrementalism.** If your idea is "what if we added AI to [e
 
 ## License
 
-CC BY 4.0. Take these ideas. Build them. Make them real. Credit appreciated — the Indian consumer has waited long enough.
+MIT. Take these ideas. Build them. Make them real. The Indian consumer has waited long enough.
 
 ---
 

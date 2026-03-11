@@ -180,4 +180,4 @@ Regulatory strategy is product strategy. Companies that treat it as compliance o
 
 ---
 
-*Next: [Chapter 10 — The 10-Year Arc: A timeline for the delusional](10-ten-year-arc.md)*
+*Return to [Table of Contents](../README.md)*
